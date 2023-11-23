@@ -1,6 +1,7 @@
 //imported react from react library (modules)
 import React, { Component } from "react";
 // person object field that contains fullName, bio, Image and profession and a boolean Shows
+// converted to class based component
 class App extends Component {
   state = {
     person: {
